@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>Misc_325.png</filename>
+	<path>E:\code\sirst_data\VOC2007\JPEGImages\Misc_325.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>283</width>
+		<height>180</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Target</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>17</ymin>
+			<xmax>171</xmax>
+			<ymax>23</ymax>
+		</bndbox>
+	</object>
+</annotation>
