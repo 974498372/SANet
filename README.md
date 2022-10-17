@@ -4,7 +4,7 @@
 ## [Datasets](#Spatial-Attention-Network-With-Global-Average-Contrast-Learning)
 - SIRST dataset is available at [SIRST](https://github.com/YimianDai/sirst).
 - A dataset for infrared time-sensitive target detection and tracking for air-ground application [ITSTD](https://www.scidb.cn/en/detail?dataSetId=de971a1898774dc5921b68793817916e&dataSetType=journal).
-- Save the dataset in the VOCKetdit folder via the VOC data format.
+- Save the dataset in the VOCdevkit folder via the VOC data format.
 
 ## [Usage](#Spatial-Attention-Network-With-Global-Average-Contrast-Learning)
 
